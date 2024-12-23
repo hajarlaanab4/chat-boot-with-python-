@@ -1,0 +1,17 @@
+{
+    "questions": [
+      {
+        "question": "What is Data Science?",
+        "response": "Data Science is a field that uses scientific methods to extract knowledge from data."
+      },
+      {
+        "question": "What is Machine Learning?",
+        "response": "Machine Learning is a subset of AI that provides systems the ability to learn from data without explicit programming."
+      },
+      {
+        "question": "Who is Pr. N. Daoudi?",
+        "response": "Pr. N. Daoudi is a professor specializing in AI and intelligent systems,she is kind and helpfull women ."
+      }
+    ]
+  }
+  
